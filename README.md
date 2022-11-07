@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving every problem with the simple code
 - 🌱 I’m currently learning NLP in Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on solving text and speach related problems.
-- 📫 How to reach me +91-99091-97750, hpdesai07@gmail.com, https://www.linkedin.com/in/hitesh-desai-007/
+- 📫 How to reach me -> Call = +91-99091-97750, Email Me = hpdesai07@gmail.com, Reach Out on Linkedin = https://www.linkedin.com/in/hitesh-desai-007/
 
 <!---
 HiteshDesai07/HiteshDesai07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
